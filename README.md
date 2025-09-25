@@ -1,16 +1,16 @@
-# challenges
+# Animations
 
-A new Flutter project.
+A collection of simple examples and experiments with animations — created for exploring and building custom visual effects.
 
-## Getting Started
+## 📝 Description
 
-This project is a starting point for a Flutter application.
+This project provides various UI animations, transitions, and custom effects. It is intended as a learning resource or a reference for experimenting with animations.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Multiple animation examples
+* Custom transitions and effects
+* Clean and simple code for learning
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎞️ GIF Previews
+gif/animation.gif
