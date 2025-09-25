@@ -13,4 +13,5 @@ This project provides various UI animations, transitions, and custom effects. It
 * Clean and simple code for learning
 
 ## 🎞️ GIF Previews
-gif/animation.gif
+![Animation Example](gif/animation.gif)
+
